@@ -4,7 +4,7 @@ A simple Powershell script to backup single or multiple PA Networks firewall con
 # Instructions:
 1. Create the folder c:\panbackup\ on your Windows Server.
 
-2. Create a local administrator on the firewall as a member of super users (read only). This will allow rights to export the full configuratiuon with phash keys. Which means you can restore the config on a new appliance easily.
+2. Create a local administrator on the firewall as a member of super users (read only). This will allow rights to export the full configuration with phash keys. Which means you can restore the config on a new appliance easily.
 The below PA documentation details how to create a local firewall administrator:
 https://docs.paloaltonetworks.com/pan-os/9-0/pan-os-admin/firewall-administration/manage-firewall-administrators/configure-administrative-accounts-and-authentication/configure-a-firewall-administrator-account.html
 
