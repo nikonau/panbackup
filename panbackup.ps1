@@ -2,9 +2,8 @@
 # Author:  nikonau
 # Date:    17/9/15
 # Updated: 06/05/19
-# Desc:    This script pulls the running-config in xml format off the PAN using the xml api key for the local user 'netmgmt'
+# Desc:    This script pulls the running-config in xml format off the PAN using the xml api key for the local user 'youruser'
 # Desc:    Date is also appended to the filename - the xml format is standard Palo Alto configuration.
-# Desc:    As of 06/05/19 this script backs up all SMT PA firewall config every day at 11:00pm.
 
 #Set powershell to use TLS 1.2
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
