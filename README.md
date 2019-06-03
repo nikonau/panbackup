@@ -1,5 +1,5 @@
 # Palo Alto Firewall Powershell Backup Script
-A simple Powershell script to backup single or multiple PA Networks firewall config via the management API.
+A simple Powershell script to backup single or multiple PA Networks firewall config via the management XML API.
 
 # Instructions:
 1. Create a local administrator on the firewall as a member of super users (read only). This will allow rights to export the full configuratiuon with phash keys. Which means you can restore the config on a new appliance easily.
