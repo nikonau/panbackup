@@ -1,4 +1,4 @@
-# Title:  CIT - Palo Alto Networks - xml api backup
+# Title:  panbackup.ps1 Palo Alto Networks - XML API Backup script
 # Author:  nikonau
 # Date:    17/9/15
 # Updated: 06/05/19
